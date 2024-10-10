@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "3363",
+      "cityName": "Massa Martana",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-09-22T15:03:20.489Z",
+      "notes": "",
+      "position": {
+        "lat": 42.74701217318067,
+        "lng": 12.570107328177322
+      }
+    },
+    {
+      "id": "b0c1",
+      "cityName": "Vaux-le-Penil",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-22T15:04:16.250Z",
+      "notes": "",
+      "position": {
+        "lat": 48.516604348867475,
+        "lng": 2.7191615057222234
+      }
+    },
+    {
+      "id": "0670",
+      "cityName": "Palmela",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-09-22T15:04:21.889Z",
+      "notes": "",
+      "position": {
+        "lat": 38.61687046392973,
+        "lng": -8.97047467203321
+      }
+    },
+    {
+      "id": "e2e9",
+      "cityName": "Mittenwalde",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-09-22T15:04:28.952Z",
+      "notes": "",
+      "position": {
+        "lat": 52.32191088594773,
+        "lng": 13.527329517897698
+      }
+    },
+    {
+      "id": "89df",
+      "cityName": "Anapa",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-09-22T15:16:14.811Z",
+      "notes": "",
+      "position": {
+        "lat": 44.90427641949615,
+        "lng": 37.34049038194579
+      }
+    }
+  ]
+}
